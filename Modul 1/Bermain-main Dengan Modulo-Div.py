@@ -1,6 +1,6 @@
 #Bermain-main dengan modulo dan div
 #Input
-x = int(input("Masukkan bilangan 4 digit aja: "))
+x = int(input("Masukkan bilangan 4 digit:  "))
 
 #Inisialisasi awal
 Alfa = False
