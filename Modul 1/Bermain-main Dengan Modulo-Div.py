@@ -1,5 +1,5 @@
 #Bermain-main dengan modulo dan div
-#Input
+#Masukan dari kode
 x = int(input("Masukkan bilangan 4 digit:  "))
 
 #Inisialisasi awal
